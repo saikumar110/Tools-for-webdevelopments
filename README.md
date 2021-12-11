@@ -1,7 +1,7 @@
 # Tools-for-webdevelopments
 
 
-## Design Resources :
+## DESIGN TEMPLATES RESOURCES :
 * Startup Landing Templates - https://startuplanding.redq.io/
 * AR Shakir's Designs - https://www.arshakir.com
 
