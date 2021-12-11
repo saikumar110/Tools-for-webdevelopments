@@ -3,6 +3,7 @@
 
 ## Design Resources :
 * Startup Landing Templates - https://startuplanding.redq.io/
+* AR Shakir's Designs - https://www.arshakir.com
 
 
 ## GENERATORS:
