@@ -1,5 +1,10 @@
 # Tools-for-webdevelopments
 
+
+## Design Resources :
+* Startup Landing Templates - https://startuplanding.redq.io/
+
+
 ## GENERATORS:
 * Text Content Generator - http://www.lipsum.com
 * Favicon Generator - http://tools.dynamicdrive.com/favicon		
