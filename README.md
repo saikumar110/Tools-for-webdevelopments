@@ -30,6 +30,7 @@
 * Minify JS & CSS - http://minifier.org
 * Code Optimization Tools - https://codebeautify.org
 * Code Diff Checker - https://www.diffchecker.com
+* Code Formatter - https://www.freeformatter.com/html-formatter.html
 
 ## CONVERTERS:
 * ES6+ & JSX Compiler - https://babeljs.io/repl
