@@ -6,6 +6,7 @@
 * AR Shakir's Designs - https://www.arshakir.com
 * 150GB+ MEGA DESIGNERS BUNDLE - https://igot.link/150gb-graphic-designer-pack/
 * Animated Backgrounds - https://finisher.co/lab/header/
+* Colors- Animated - https://mycolor.space/gradient?ori=to+left+bottom&hex=%23051937&hex2=%23A8EB12&sub=1
 
 
 ## GENERATORS:
