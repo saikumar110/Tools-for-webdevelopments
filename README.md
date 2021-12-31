@@ -5,6 +5,7 @@
 * Startup Landing Templates - https://startuplanding.redq.io/
 * AR Shakir's Designs - https://www.arshakir.com
 * 150GB+ MEGA DESIGNERS BUNDLE - https://igot.link/150gb-graphic-designer-pack/
+* Animated Backgrounds - https://finisher.co/lab/header/
 
 
 ## GENERATORS:
