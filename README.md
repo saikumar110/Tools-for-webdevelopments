@@ -9,6 +9,7 @@
 * Colors- Animated - https://mycolor.space/gradient?ori=to+left+bottom&hex=%23051937&hex2=%23A8EB12&sub=1
 * 3dicons -https://free3dicon.com/
 * Css Layout - https://csslayout.io/
+* Envato Element Cache - https://docs.google.com/document/d/1S6mEp6LZv3-fZxMmVHs6KKUq2yf_4tI2XwT7N0-1XS0/edit
 
 
 ## GENERATORS:
