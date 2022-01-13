@@ -13,6 +13,7 @@
 * Ui-Deck  - https://uideck.com/templates/
 * Zero-Theme - https://www.zerotheme.com/
 * Html5up - https://html5up.net/
+* Theme-Wagon - https://themewagon.com/
 
 
 ## GENERATORS:
