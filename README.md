@@ -9,7 +9,6 @@
 * Colors- Animated - https://mycolor.space/gradient?ori=to+left+bottom&hex=%23051937&hex2=%23A8EB12&sub=1
 * 3dicons -https://free3dicon.com/
 * Css Layout - https://csslayout.io/
-* Envato Element Cache - https://docs.google.com/document/d/1S6mEp6LZv3-fZxMmVHs6KKUq2yf_4tI2XwT7N0-1XS0/edit
 * Ui-Deck  - https://uideck.com/templates/
 * Zero-Theme - https://www.zerotheme.com/
 * Html5up - https://html5up.net/
@@ -17,6 +16,7 @@
 
 ## CHATBOTS
 * Twak.io - https://www.tawk.to/
+* Jivochat -https://www.jivochat.com/
 
 ## GENERATORS:
 * Text Content Generator - http://www.lipsum.com
