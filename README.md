@@ -15,6 +15,9 @@
 * Theme-Wagon - https://themewagon.com/
 * Css Shadow -https://getcssscan.com/css-box-shadow-examples
 
+## DEPLOYMENT - BLOGS :
+* Aws -https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-20-04#testing-gunicorn-s-ability-to-serve-the-project
+
 ## CHATBOTS
 * Twak.io - https://www.tawk.to/
 * Jivochat -https://www.jivochat.com/
