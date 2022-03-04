@@ -94,6 +94,8 @@
 * Speed & Performance Testing - https://tools.keycdn.com/speed
 * Pingdom Speed Test - https://tools.pingdom.com/
 
+## BOOKS FOR DEVELOPMENT - https://github.com/oddsun/Free-Python-Books
+
 ## OTHER:
 * Public API Resources - https://github.com/toddmotto/public-apis?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more
 * Organized Docs for all Popular Web Technologies - https://devdocs.io
