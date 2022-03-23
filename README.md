@@ -32,6 +32,7 @@
 * Hash Generator - https://passwordsgenerator.net/sha256-hash-generator/
 * Ultimate Code Generator - https://webcode.tools/
 * Angry tools - https://angrytools.com/
+* Dot Trick - https://missingtricks.net/gmail-dot/
 
 ## IMAGE RESOURCES:
 * Free Stock Images - https://www.pexels.com
