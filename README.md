@@ -14,6 +14,7 @@
 * Html5up - https://html5up.net/
 * Theme-Wagon - https://themewagon.com/
 * Css Shadow -https://getcssscan.com/css-box-shadow-examples
+* Books - https://1lib.in/
 
 ## DEPLOYMENT - BLOGS :
 * Aws -  https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-20-04#testing-gunicorn-s-ability-to-serve-the-project
